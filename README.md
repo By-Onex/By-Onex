@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Иван Марченко
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning js, nodejs, reactjs, sql
-- 📫 How to reach me ...
-- [клиен чата](https://github.com/By-Onex/web-chat) 
-- [сервер чата](https://github.com/By-Onex/web-chat-server) ![alt text](https://gitlab.com/uploads/-/system/project/avatar/15333161/nodejs.png)
+# Здравсвуйте, я Иван Марченко
+Интересуюсь **WEB-технологиями**
 
-
-<!---
-By-Onex/By-Onex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Есть познания в **JavaScript, SQL, С#, Golang** 
+## Стараюсь стать full-stack программистом
+## Мои проекты:
+- [WEB-чат](https://github.com/By-Onex/web-chat) _JavaScript, React.js, Redux.js_
+- [Сервер для чата (API + web-socket)](https://github.com/By-Onex/web-chat-server) _Node.js, SQL_
