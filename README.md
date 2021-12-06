@@ -1,7 +1,7 @@
 # Здравсвуйте, я Иван Марченко
 Интересуюсь **WEB-технологиями**
 
-Есть познания в **JavaScript, SQL, С#, Golang** 
+Есть познания в **JavaScript, SQL, CSS, С#, Golang** 
 ## Стараюсь стать full-stack программистом
 ## Мои проекты:
 - [WEB-чат](https://github.com/By-Onex/web-chat) _JavaScript, React.js, Redux.js_
